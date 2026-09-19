@@ -8,7 +8,7 @@
   <a href="https://github.com/rishabhbhardwaj-dev/Rohit_Portfolio">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
   </a>
-  <a href="https://rishabh-portfolio-lac.vercel.app/">
+  <a href="https://rohit-portfolio-zeta-puce.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
